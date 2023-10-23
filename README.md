@@ -1,4 +1,4 @@
-# IoT_project
+# IoT_Oneday_toyproject
 Arduino / 엘리베이터 작동 로직 구현 &amp; LED 시스템 회로 구현
 
 [TinkerCad 시뮬레이션 링크](https://www.tinkercad.com/things/1TqaRMet3RW)
